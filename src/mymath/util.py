@@ -1,4 +1,4 @@
 import math
 
-def square_root(YieldStrength):
-    return math.sqrt(YieldStrength)
+def square_root(v):
+    return math.sqrt(v)
